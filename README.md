@@ -2,7 +2,8 @@
 
 ## 📱 Features  
 - Add New Stock  
-- Check Stock  
+- Check Stock
+- Update Stock   
 - Automated Testing  
 
 ## 🛠 Tech Stack  
